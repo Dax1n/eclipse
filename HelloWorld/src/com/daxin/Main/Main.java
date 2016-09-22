@@ -15,6 +15,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World !");
 		System.out.println("道路是脚步多!");
+		System.out.println("果然非常好用的版本管理工具!")
 
 	}
 
